@@ -27,6 +27,21 @@ const filmes = {
       Year: '2002',
       Poster: 'https://br.web.img3.acsta.net/medias/nmedia/18/97/04/04/20504443.jpg',
     },
+    {
+      Title: 'Missão ataque',
+      Year: '2022',
+      Poster: 'https://m.media-amazon.com/images/S/pv-target-images/c8233bc104d3ed0bf09ea026315037414d617165c580e855e65b6e045d00ecac.jpg',
+    },
+    {
+      Title: 'Adão Negro',
+      Year: '2022',
+      Poster: 'https://upload.wikimedia.org/wikipedia/pt/6/63/Black_Adam_poster.jpg',
+    },
+    {
+      Title: 'The Walking Dead',
+      Year: '2010',
+      Poster: 'https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/78/35/82/20303823.jpg',
+    },
   ]
 }
 
